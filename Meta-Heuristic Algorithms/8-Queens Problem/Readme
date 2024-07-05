@@ -1,1 +1,4 @@
+Presenting an evolutionary algorithm approach to solving the 8-Queens problem, a classic optimization problem, and
+evaluating the algorithms performance in terms of avoiding local optima and determining the global maximum by adjusting important
+parameters.
 
