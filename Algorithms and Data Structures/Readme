@@ -1,4 +1,3 @@
-Calculated the time complexity of various sorting algorithms, both theoretically and experimentally and successfully identified the
-best-performing algorithm for best, worst and average cases. 
+Calculated the time complexity of various sorting algorithms, both theoretically and experimentally and successfully identified the best-performing algorithm for best, worst and average cases. 
 Additionally, compared the brute-force algorithm and dynamic programming for discovering pairs that add up to a target value.
 
