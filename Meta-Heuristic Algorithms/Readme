@@ -1,1 +1,1 @@
-
+Implemented Evolutionary Algorithm for 8-queens problem and Simulated Annealing for TSP problem with 100 cities, achieving 90% of accuracy. Tested out different parameters and termination conditions and analyzed the results graphically. 
