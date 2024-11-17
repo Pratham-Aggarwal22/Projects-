@@ -1,1 +1,1 @@
-
+The project involves proving the hypothesis that Stock Market is influenced by the news articles published. The sentiment score of news articles were considered to predict the stock prices of 2023 and then compared with the actual prices and prices predicted without considering sentiment score as a parameter in the model.
